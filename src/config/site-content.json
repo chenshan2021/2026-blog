@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "shan",
-		"description": "shan的个人博客，记录前端开发、探索、笔记。",
+		"description": "shan的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
 		"username": "shan"
 	},
 	"theme": {
@@ -69,7 +69,7 @@
 	"enableCategories": true,
 	"currentHatIndex": 9,
 	"hatFlipped": false,
-	"enableChristmas": false,
+	"enableChristmas": true,
 	"beian": {
 		"text": "",
 		"link": ""
